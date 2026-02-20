@@ -1,0 +1,9 @@
+{
+  "name": "Nexa - AI platform 1.43",
+  "description": "Autonomous multimodal AI hub featuring Gemini 3 Pro reasoning, high-fidelity image generation, precise 3D spatial audio controls, and full regional province support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
